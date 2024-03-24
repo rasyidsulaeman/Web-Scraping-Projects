@@ -1,0 +1,21 @@
+repo name,username,stars,watchers,created at,updated at,link repo
+tensorflow,tensorflow,182000,181506,2015-11-07T01:19:20Z,2024-03-24T03:43:36Z,https://github.com/tensorflow/tensorflow
+stable-diffusion-webui,AUTOMATIC1111,127000,126503,2022-08-22T14:05:26Z,2024-03-24T04:02:16Z,https://github.com/AUTOMATIC1111/stable-diffusion-webui
+transformers,huggingface,123000,122818,2018-10-29T13:56:00Z,2024-03-24T04:05:07Z,https://github.com/huggingface/transformers
+pytorch,pytorch,76900,76869,2016-08-13T05:26:41Z,2024-03-24T03:43:35Z,https://github.com/pytorch/pytorch
+opencv,opencv,74900,74878,2012-07-19T09:40:17Z,2024-03-24T03:23:50Z,https://github.com/opencv/opencv
+cs-video-courses,Developer-Y,63900,63856,2016-10-21T17:02:11Z,2024-03-24T03:53:18Z,https://github.com/Developer-Y/cs-video-courses
+keras,keras-team,60700,60711,2015-03-28T00:35:42Z,2024-03-24T01:10:46Z,https://github.com/keras-team/keras
+d2l-zh,d2l-ai,55600,55606,2017-08-23T04:40:24Z,2024-03-24T02:40:42Z,https://github.com/d2l-ai/d2l-zh
+Real-Time-Voice-Cloning,CorentinJ,50400,50426,2019-05-26T08:56:15Z,2024-03-23T22:53:12Z,https://github.com/CorentinJ/Real-Time-Voice-Cloning
+faceswap,deepfakes,48900,48879,2017-12-19T09:44:13Z,2024-03-24T02:21:15Z,https://github.com/deepfakes/faceswap
+yolov5,ultralytics,46100,46088,2020-05-18T03:45:11Z,2024-03-24T03:14:55Z,https://github.com/ultralytics/yolov5
+annotated_deep_learning_paper_implementations,labmlai,45800,45756,2020-08-25T02:29:34Z,2024-03-24T04:06:39Z,https://github.com/labmlai/annotated_deep_learning_paper_implementations
+DeepFaceLab,iperov,45000,44985,2018-06-04T13:10:00Z,2024-03-24T02:35:41Z,https://github.com/iperov/DeepFaceLab
+TensorFlow-Examples,aymericdamien,43200,43175,2015-11-11T14:21:19Z,2024-03-24T03:46:39Z,https://github.com/aymericdamien/TensorFlow-Examples
+100-Days-Of-ML-Code,Avik-Jain,42800,42840,2018-07-05T09:11:43Z,2024-03-24T02:06:03Z,https://github.com/Avik-Jain/100-Days-Of-ML-Code
+Prompt-Engineering-Guide,dair-ai,42700,42674,2022-12-16T16:04:50Z,2024-03-24T03:36:47Z,https://github.com/dair-ai/Prompt-Engineering-Guide
+ColossalAI,hpcaitech,37400,37442,2021-10-28T16:19:44Z,2024-03-24T03:52:40Z,https://github.com/hpcaitech/ColossalAI
+Deep-Learning-Papers-Reading-Roadmap,floodsung,37200,37248,2016-10-14T11:49:48Z,2024-03-24T00:17:55Z,https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap
+Made-With-ML,GokuMohandas,35300,35298,2018-11-05T03:44:27Z,2024-03-23T23:36:09Z,https://github.com/GokuMohandas/Made-With-ML
+GFPGAN,TencentARC,34300,34300,2021-03-19T06:18:20Z,2024-03-23T11:09:10Z,https://github.com/TencentARC/GFPGAN

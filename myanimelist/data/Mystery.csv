@@ -169,7 +169,7 @@ Shingetsutan Tsukihime,2003,6.81,Finished,12,"['Action', 'Horror', 'Mystery', 'R
 Bungou Stray Dogs 5th Season,2023,8.65,Finished,11,"['Action', 'Mystery', 'Supernatural']",Manga
 Princess Tutu,2002,8.14,Finished,38,"['Comedy', 'Drama', 'Fantasy', 'Mystery', 'Romance']",Original
 DRAMAtical Murder,2014,6.05,Finished,12,"['Action', 'Mystery', 'Sci-Fi']",Visual novel
-ef: A Tale of Melodies.,2008,8.0,Finished,12,"['Drama', 'Mystery', 'Romance', 'Supernatural']",Visual novel
+ef: A Tale of Melodies.,2008,8,Finished,12,"['Drama', 'Mystery', 'Romance', 'Supernatural']",Visual novel
 ACCA: 13-ku Kansatsu-ka,2017,7.66,Finished,12,"['Drama', 'Fantasy', 'Mystery']",Manga
 Innocence,2004,7.78,Finished,1,"['Award Winning', 'Mystery', 'Sci-Fi']",Manga
 Jigoku Shoujo Futakomori,2006,7.88,Finished,26,"['Horror', 'Mystery', 'Supernatural']",Original
@@ -216,7 +216,7 @@ Makai Ouji: Devils and Realist,2013,7.01,Finished,12,"['Comedy', 'Fantasy', 'Mys
 Witch Hunter Robin,2002,7.24,Finished,26,"['Action', 'Drama', 'Mystery', 'Supernatural']",Original
 "Trickster: Edogawa Ranpo ""Shounen Tanteidan"" yori",2016,6.25,Finished,24,"['Drama', 'Mystery', 'Sci-Fi']",Source
 Lupin III: Cagliostro no Shiro,1979,8.15,Finished,1,"['Action', 'Adventure', 'Award Winning', 'Comedy', 'Mystery']",Manga
-Kara no Kyoukai Movie: Mirai Fukuin,2013,8.0,Finished,1,"['Drama', 'Mystery', 'Supernatural']",Light novel
+Kara no Kyoukai Movie: Mirai Fukuin,2013,8,Finished,1,"['Drama', 'Mystery', 'Supernatural']",Light novel
 Hakkenden: Touhou Hakken Ibun,2013,7.39,Finished,13,"['Action', 'Fantasy', 'Mystery']",Manga
 Speed Grapher,2005,7.3,Finished,24,"['Action', 'Mystery', 'Supernatural']",Original
 Noir,2001,7.29,Finished,26,"['Action', 'Drama', 'Mystery']",Original
@@ -272,7 +272,7 @@ xxxHOLiC Rou,2010,8.19,Finished,2,"['Drama', 'Mystery', 'Supernatural']",Manga
 Petshop of Horrors,1999,7.24,Finished,4,"['Horror', 'Mystery', 'Supernatural']",Manga
 """Bungaku Shoujo"" Movie",2010,7.33,Finished,1,"['Drama', 'Mystery', 'Romance']",Light novel
 R.O.D: Read or Die,2001,7.62,Finished,3,"['Action', 'Adventure', 'Mystery', 'Sci-Fi']",Light novel
-Kami no Tou 2nd Season,2024,0.0,Not yet aired,?,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Mystery']",Web manga
+Kami no Tou 2nd Season,2024,0,Not yet aired,?,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Mystery']",Web manga
 Majin Tantei Nougami Neuro,2007,7.59,Finished,25,"['Comedy', 'Mystery', 'Supernatural']",Manga
 Godzilla: S.P,2021,6.65,Finished,13,"['Action', 'Award Winning', 'Mystery', 'Sci-Fi']",Source
 Shoumetsu Toshi,2019,5.49,Finished,12,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Mystery']",Game
@@ -293,7 +293,7 @@ Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to
 Mouryou no Hako,2008,7.16,Finished,13,"['Mystery', 'Supernatural', 'Suspense']",Novel
 Meitantei Conan Movie 04: Hitomi no Naka no Ansatsusha,2000,8.03,Finished,1,"['Adventure', 'Comedy', 'Mystery']",Manga
 Wu Liuqi: Xuanwu Guo Pian,2021,8.3,Finished,10,"['Action', 'Adventure', 'Comedy', 'Drama', 'Mystery']",Original
-Rental Magica,2007,7.0,Finished,24,"['Action', 'Fantasy', 'Mystery']",Light novel
+Rental Magica,2007,7,Finished,24,"['Action', 'Fantasy', 'Mystery']",Light novel
 Gyo,2011,5.33,Finished,1,"['Drama', 'Horror', 'Mystery', 'Sci-Fi']",Manga
 Koi to Producer: EVOL×LOVE,2020,6.18,Finished,12,"['Mystery', 'Romance', 'Sci-Fi']",Game
 Jigoku Shoujo: Yoi no Togi,2017,6.6,Finished,6,"['Horror', 'Mystery', 'Supernatural']",Original
@@ -326,7 +326,7 @@ Meitantei Conan Movie 12: Senritsu no Full Score,2008,7.78,Finished,1,"['Adventu
 Koukaku Kidoutai: Shin Movie,2015,7.43,Finished,1,"['Action', 'Award Winning', 'Mystery', 'Sci-Fi']",Manga
 Vatican Kiseki Chousakan,2017,6.4,Finished,12,"['Drama', 'Mystery', 'Supernatural']",Novel
 Sankaku Mado no Sotogawa wa Yoru,2021,6.74,Finished,12,"['Boys Love', 'Drama', 'Horror', 'Mystery', 'Supernatural']",Manga
-"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",0000,0.0,Not yet aired,?,"['Action', 'Drama', 'Fantasy', 'Mystery', 'Romance']",Light novel
+"Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru 2nd Season",0,0,Not yet aired,?,"['Action', 'Drama', 'Fantasy', 'Mystery', 'Romance']",Light novel
 Ajin Part 1: Shoudou,2015,7.43,Finished,1,"['Action', 'Horror', 'Mystery', 'Supernatural']",Manga
 Persona 4 the Animation: No One is Alone,2012,7.48,Finished,1,"['Adventure', 'Mystery', 'Sci-Fi', 'Supernatural']",Game
 Tokkou,2006,6.53,Finished,13,"['Action', 'Horror', 'Mystery', 'Supernatural']",Source
@@ -364,7 +364,7 @@ Tokyo Majin Gakuen Kenpucho: Tou Dai Ni Maku,2007,7.19,Finished,12,"['Action', '
 Un-Go: Inga-ron,2011,7.53,Finished,1,"['Mystery', 'Supernatural']",Novel
 Kidou Keisatsu Patlabor 2 the Movie,1993,7.98,Finished,1,"['Award Winning', 'Drama', 'Mystery', 'Sci-Fi']",Original
 Double Decker! Doug & Kirill,2018,6.81,Finished,13,"['Action', 'Comedy', 'Mystery', 'Sci-Fi']",Original
-"Tantei wa Mou, Shindeiru. Season 2",0000,0.0,Not yet aired,?,"['Comedy', 'Mystery', 'Romance']",Light novel
+"Tantei wa Mou, Shindeiru. Season 2",0,0,Not yet aired,?,"['Comedy', 'Mystery', 'Romance']",Light novel
 Phi Brain: Kami no Puzzle - Shukuteki! Rätsel-hen,2013,7.24,Finished,25,"['Action', 'Mystery', 'Suspense']",Original
 Concrete Revolutio: Choujin Gensou - The Last Song,2016,6.98,Finished,11,"['Action', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi']",Original
 Lupin III vs. Meitantei Conan,2009,7.76,Finished,1,"['Action', 'Adventure', 'Comedy', 'Mystery']",Manga
@@ -386,12 +386,12 @@ Tiger & Bunny Movie 2: The Rising,2014,7.7,Finished,1,"['Action', 'Comedy', 'Mys
 Meitantei Conan Movie 21: Karakurenai no Love Letter,2017,7.67,Finished,1,"['Action', 'Drama', 'Mystery', 'Romance']",Manga
 Night Head Genesis,2006,6.73,Finished,24,"['Drama', 'Mystery', 'Sci-Fi', 'Supernatural']",Manga
 Kindaichi Shounen no Jikenbo,1997,7.93,Finished,148,['Mystery'],Manga
-Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen),0000,0.0,Not yet aired,?,"['Adventure', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi']",Web manga
+Made in Abyss: Retsujitsu no Ougonkyou (Zoku-hen),0,0,Not yet aired,?,"['Adventure', 'Drama', 'Fantasy', 'Mystery', 'Sci-Fi']",Web manga
 Meitantei Conan: Episode One - Chiisaku Natta Meitantei,2016,8.24,Finished,1,"['Adventure', 'Comedy', 'Mystery']",Manga
 Meitantei Conan Movie 22: Zero no Shikkounin,2018,7.85,Finished,1,"['Action', 'Award Winning', 'Drama', 'Mystery']",Manga
-Blue Seed,1994,7.0,Finished,26,"['Action', 'Adventure', 'Drama', 'Horror', 'Mystery', 'Romance', 'Supernatural']",Source
+Blue Seed,1994,7,Finished,26,"['Action', 'Adventure', 'Drama', 'Horror', 'Mystery', 'Romance', 'Supernatural']",Source
 Yami to Boushi to Hon no Tabibito,2003,6.52,Finished,13,"['Adventure', 'Fantasy', 'Girls Love', 'Mystery', 'Ecchi']",Visual novel
-Kuroshitsuji: Kishuku Gakkou-hen,2024,0.0,Not yet aired,?,"['Action', 'Fantasy', 'Mystery']",Manga
+Kuroshitsuji: Kishuku Gakkou-hen,2024,0,Not yet aired,?,"['Action', 'Fantasy', 'Mystery']",Manga
 Ingress the Animation,2018,6.28,Finished,11,"['Action', 'Mystery', 'Sci-Fi']",Game
 Meitantei Conan Movie 23: Konjou no Fist,2019,7.85,Finished,1,"['Action', 'Comedy', 'Drama', 'Mystery']",Manga
 Layton Kyouju to Eien no Utahime,2009,7.63,Finished,1,"['Adventure', 'Mystery']",Source
@@ -416,7 +416,7 @@ Ginga Tetsudou no Yoru,1985,7.37,Finished,1,"['Award Winning', 'Drama', 'Fantasy
 Tiger & Bunny Movie 1: The Beginning,2012,7.36,Finished,1,"['Action', 'Comedy', 'Mystery']",Original
 City Hunter '91,1991,7.75,Finished,13,"['Action', 'Comedy', 'Mystery']",Manga
 ChäoS;Child: Silent Sky,2017,6.52,Finished,1,"['Mystery', 'Sci-Fi', 'Supernatural']",Visual novel
-Monogatari Series: Off & Monster Season,2024,0.0,Not yet aired,?,"['Comedy', 'Mystery', 'Supernatural']",Light novel
+Monogatari Series: Off & Monster Season,2024,0,Not yet aired,?,"['Comedy', 'Mystery', 'Supernatural']",Light novel
 .hack//Intermezzo,2003,6.51,Finished,1,"['Adventure', 'Fantasy', 'Mystery', 'Sci-Fi']",Original
 Cike Wu Liuqi Fanwai,2018,7.5,Finished,4,"['Action', 'Comedy', 'Drama', 'Mystery', 'Romance']",Original
 ChäoS;Child Episode 0,2017,6.22,Finished,1,"['Mystery', 'Sci-Fi', 'Supernatural']",Visual novel
@@ -430,7 +430,7 @@ Meitantei Conan Movie 08: Ginyoku no Time Travel Recap,2004,7.81,Finished,1,"['A
 City Hunter 3,1989,7.8,Finished,13,"['Action', 'Comedy', 'Mystery']",Manga
 Fake,1998,6.5,Finished,1,"['Boys Love', 'Comedy', 'Mystery']",Manga
 Meitantei Conan OVA 09: 10-nengo no Stranger,2009,7.91,Finished,1,"['Adventure', 'Comedy', 'Mystery']",Manga
-Mahoutsukai no Yoru,0000,0.0,Not yet aired,1,"['Mystery', 'Supernatural']",Visual novel
+Mahoutsukai no Yoru,0,0,Not yet aired,1,"['Mystery', 'Supernatural']",Visual novel
 Night Walker: Mayonaka no Tantei,1998,6.91,Finished,12,"['Action', 'Horror', 'Mystery', 'Supernatural']",Visual novel
 Vampire Holmes,2015,3.29,Finished,12,"['Comedy', 'Mystery', 'Supernatural']",Game
 Meitantei Conan Movie 24: Hiiro no Dangan,2021,7.75,Finished,1,"['Action', 'Comedy', 'Drama', 'Mystery']",Manga
@@ -459,7 +459,7 @@ Rozen Maiden: Meitantei Kunkun - Duell Walzer,2006,6.46,Finished,1,"['Comedy', '
 Darwin's Game: Log Line,2020,6.58,Finished,1,"['Action', 'Mystery', 'Sci-Fi', 'Suspense']",Manga
 Loups=Garous,2010,6.25,Finished,1,"['Mystery', 'Sci-Fi', 'Suspense']",Source
 Meitantei Conan OVA 04: Conan to Kid to Crystal Mother,2004,7.49,Finished,1,"['Adventure', 'Mystery']",Manga
-Mononoke Movie,2024,0.0,Not yet aired,1,"['Horror', 'Mystery', 'Supernatural']",Original
+Mononoke Movie,2024,0,Not yet aired,1,"['Horror', 'Mystery', 'Supernatural']",Original
 ACCA: 13-ku Kansatsu-ka - Regards,2020,7.15,Finished,1,"['Drama', 'Fantasy', 'Mystery']",Manga
 Layton Mystery Tanteisha: Katri no Nazotoki File,2018,7.23,Finished,50,"['Comedy', 'Mystery']",Game
 Nakanohito Genome [Jikkyouchuu]: Knots of Memories,2020,6.82,Finished,1,"['Adventure', 'Drama', 'Mystery']",Web manga
@@ -492,7 +492,7 @@ Aiyou de Mishi,2023,7.1,Finished,16,"['Mystery', 'Suspense']",Manga
 Meitantei Conan: Zero no Tea Time,2022,6.91,Finished,6,"['Mystery', 'Slice of Life']",Manga
 Sushi Police,2016,4.63,Finished,13,"['Comedy', 'Gourmet', 'Mystery']",Original
 ef: A Tale of Memories. - Recollections,2008,7.27,Finished,1,"['Drama', 'Mystery', 'Romance']",Visual novel
-Kamonohashi Ron no Kindan Suiri 2nd Season,0000,0.0,Not yet aired,?,"['Comedy', 'Mystery']",Manga
+Kamonohashi Ron no Kindan Suiri 2nd Season,0,0,Not yet aired,?,"['Comedy', 'Mystery']",Manga
 X OVA,2001,6.77,Finished,1,"['Action', 'Drama', 'Fantasy', 'Mystery']",Manga
 Bai Yao Pu,2020,7.1,Finished,12,"['Adventure', 'Fantasy', 'Mystery', 'Supernatural']",Novel
 Meitantei Conan OVA 11: London kara no Maru Hi Shirei,2011,7.4,Finished,1,"['Adventure', 'Comedy', 'Mystery']",Manga
@@ -521,7 +521,7 @@ Meitantei Conan OVA 12: Excalibur no Kiseki,2012,7.02,Finished,1,"['Comedy', 'My
 Monster Extra: Hottan,2004,6.63,Finished,1,"['Drama', 'Mystery', 'Suspense']",Manga
 Di Wang Gong Lue,2018,6.44,Finished,20,"['Adventure', 'Boys Love', 'Drama', 'Mystery']",Novel
 "Lupin III: Episode 0 ""First Contact""",2002,7.55,Finished,1,"['Action', 'Adventure', 'Comedy', 'Mystery']",Manga
-Kaii to Otome to Kamikakushi,2024,0.0,Not yet aired,?,"['Mystery', 'Supernatural']",Web manga
+Kaii to Otome to Kamikakushi,2024,0,Not yet aired,?,"['Mystery', 'Supernatural']",Web manga
 Futari wa Milky Holmes,2013,5.78,Finished,12,"['Comedy', 'Mystery']",Source
 Darkside Blues,1994,6.01,Finished,1,"['Horror', 'Mystery', 'Sci-Fi']",Manga
 Meitantei Conan Movie 26: Kurogane no Submarine,2023,8.33,Finished,1,"['Action', 'Mystery']",Manga
@@ -568,7 +568,7 @@ Wild Adapter,2014,6.18,Finished,2,"['Action', 'Drama', 'Mystery']",Manga
 Twilight Q,1987,6.31,Finished,2,"['Mystery', 'Sci-Fi']",Source
 Hamatora The Animation: Saishuukai Chokuzen! Mao ga Okuru,2014,6.72,Finished,1,"['Comedy', 'Mystery']",Mixed media
 Vanitas no Karte: Le Chemin Parcouru Depuis la Rencontre,2021,6.95,Finished,1,"['Action', 'Fantasy', 'Mystery']",Manga
-Guimi Zhi Zhu,2025,0.0,Not yet aired,?,"['Action', 'Mystery', 'Supernatural', 'Suspense']",Web novel
+Guimi Zhi Zhu,2025,0,Not yet aired,?,"['Action', 'Mystery', 'Supernatural', 'Suspense']",Web novel
 City Hunter: Hyakuman Dollar no Inbou,1990,7.32,Finished,1,"['Action', 'Comedy', 'Mystery']",Manga
 Agatha Christie no Meitantei Poirot to Marple,2004,6.85,Finished,39,['Mystery'],Novel
 Cinderella Boy,2003,6.29,Finished,13,"['Action', 'Adventure', 'Comedy', 'Mystery']",Manga
@@ -597,7 +597,7 @@ Lupin III: Goodbye Partner,2019,6.8,Finished,1,"['Action', 'Adventure', 'Comedy'
 Kabukichou Sherlock OVA,2020,6.71,Finished,6,"['Comedy', 'Drama', 'Mystery']",Original
 Kaitou Joker 2nd Season,2015,7.25,Finished,13,"['Adventure', 'Comedy', 'Mystery']",Manga
 Midnight Eye: Gokuu II,1989,6.21,Finished,1,"['Action', 'Mystery', 'Sci-Fi']",Manga
-Lupin III: Nusumareta Lupin,2004,7.0,Finished,1,"['Action', 'Adventure', 'Comedy', 'Mystery']",Manga
+Lupin III: Nusumareta Lupin,2004,7,Finished,1,"['Action', 'Adventure', 'Comedy', 'Mystery']",Manga
 Lupin III: Kiri no Elusive,2007,6.77,Finished,1,"['Action', 'Adventure', 'Comedy', 'Mystery']",Manga
 Aoyama Goushou Tanpenshuu,1999,7.28,Finished,7,"['Adventure', 'Comedy', 'Mystery']",Manga
 Mayonaka no Occult Koumuin: Fukurokouji to Ano Ko to Ore to,2019,6.79,Finished,1,"['Fantasy', 'Mystery']",Manga
@@ -617,7 +617,7 @@ Shin Taketori Monogatari: 1000-nen Joou,1981,7.15,Finished,42,"['Drama', 'Myster
 Warau Hyouteki,1987,6.12,Finished,1,"['Horror', 'Mystery']",Manga
 Hentatsu (TV),2020,5.09,Finished,12,"['Adventure', 'Mystery']",Original
 Lupin III: Sweet Lost Night - Mahou no Lamp wa Akumu no Yokan,2008,6.96,Finished,1,"['Action', 'Adventure', 'Comedy', 'Mystery']",Manga
-Mo Du Zhe,0000,0.0,Not yet aired,?,"['Drama', 'Mystery']",Novel
+Mo Du Zhe,0,0,Not yet aired,?,"['Drama', 'Mystery']",Novel
 Saishuu Shiken Kujira,2007,4.96,Finished,12,"['Comedy', 'Mystery', 'Supernatural', 'Ecchi']",Visual novel
 Ribbon no Kishi,1967,6.74,Finished,52,"['Action', 'Fantasy', 'Mystery', 'Romance']",Manga
 Taiho Shichau zo in America,2002,6.47,Finished,1,"['Action', 'Comedy', 'Mystery']",Manga
@@ -646,12 +646,12 @@ Beyblade Burst Dynamite Battle,2021,6.23,Finished,52,"['Action', 'Adventure', 'C
 X Densha de Ikou,1987,5.75,Finished,1,"['Avant Garde', 'Mystery', 'Supernatural']",Novel
 Bai Yao Pu 2nd Season,2021,7.25,Finished,12,"['Adventure', 'Fantasy', 'Mystery', 'Supernatural']",Novel
 Kyoukaisen,2021,7.07,Finished,1,['Mystery'],Original
-Meitantei Conan Movie 27: 100-man Dollar no Michishirube,2024,0.0,Not yet aired,1,['Mystery'],Manga
+Meitantei Conan Movie 27: 100-man Dollar no Michishirube,2024,0,Not yet aired,1,['Mystery'],Manga
 Babel Nisei (2001),2001,5.68,Finished,13,"['Action', 'Adventure', 'Mystery', 'Sci-Fi', 'Supernatural']",Manga
 Akatsuki no Chinkonka,2018,6.36,Finished,1,"['Fantasy', 'Mystery']",Original
 Shen Qi Huan Qi Tan,2017,5.6,Finished,24,"['Action', 'Adventure', 'Fantasy', 'Mystery', 'Supernatural']",Manga
 Lupin III vs. Cat's Eye,2023,6.54,Finished,1,"['Action', 'Adventure', 'Comedy', 'Mystery']",Original
-Li Shi,2020,6.0,Finished,16,"['Action', 'Mystery', 'Supernatural']",Novel
+Li Shi,2020,6,Finished,16,"['Action', 'Mystery', 'Supernatural']",Novel
 Kindaichi Shounen no Jikenbo Movie 1: Operazakan - Aratanaru Satsujin,1996,7.06,Finished,1,['Mystery'],Light novel
 Hello Harinezumi: Satsui no Ryoubun,1992,6.38,Finished,1,"['Drama', 'Mystery']",Manga
 Meitantei Conan: Haibara Ai Monogatari - Kurogane no Mystery Train,2023,7.25,Finished,1,['Mystery'],Manga
@@ -660,7 +660,7 @@ Galerians: Rion,2002,5.32,Finished,3,"['Adventure', 'Drama', 'Horror', 'Mystery'
 Ojousama Sousamou,1996,4.85,Finished,1,"['Action', 'Comedy', 'Mystery']",Original
 Princess Principal: Crown Handler Movie 2 - Revealing Reviews,2022,6.65,Finished,1,['Mystery'],Original
 Kyoshin to Hyouka no Shiro,2020,5.63,Finished,4,"['Drama', 'Mystery', 'Supernatural']",Original
-Your Forma,0000,0.0,Not yet aired,?,"['Mystery', 'Sci-Fi']",Light novel
+Your Forma,0,0,Not yet aired,?,"['Mystery', 'Sci-Fi']",Light novel
 Luv Wave,2000,5.88,Finished,3,"['Action', 'Drama', 'Horror', 'Mystery', 'Sci-Fi', 'Hentai']",Visual novel
 Sin in the Rain,2006,4.7,Finished,1,['Mystery'],
 Mushishi Recap,2006,6.69,Finished,1,"['Mystery', 'Supernatural']",Manga
@@ -669,7 +669,7 @@ Karakuri Circus: Makuai - Soshite Mata Kaimaku Bell,2019,6.21,Finished,1,"['Adve
 Ankoku Shinwa,1990,4.17,Finished,2,"['Fantasy', 'Horror', 'Mystery', 'Supernatural']",Manga
 20-pun de Oitsukeru: Shingeki no Kyojin,2021,6.25,Finished,1,"['Action', 'Drama', 'Fantasy', 'Mystery']",Source
 Saint Luminous Jogakuin,1998,5.9,Finished,13,"['Mystery', 'Supernatural']",Original
-Memory,1964,6.0,Finished,1,"['Avant Garde', 'Comedy', 'Drama', 'Mystery']",Original
+Memory,1964,6,Finished,1,"['Avant Garde', 'Comedy', 'Drama', 'Mystery']",Original
 Gosenzo San'e,1998,6.07,Finished,4,"['Comedy', 'Mystery', 'Supernatural', 'Hentai']",Original
 15-fun de Oitsukeru: Shingeki no Kyojin,2020,6.35,Finished,1,"['Action', 'Drama', 'Fantasy', 'Mystery']",Manga
 City Hunter: Ryou no Propose,2016,6.73,Finished,1,"['Action', 'Comedy', 'Mystery']",Manga
@@ -677,7 +677,7 @@ Meitantei Conan: Nazo no Suisei Kaijuu wo Oe!,2001,6.43,Finished,1,['Mystery'],M
 10-pun de Oitsukeru: Shingeki no Kyojin,2018,6.34,Finished,1,"['Action', 'Drama', 'Fantasy', 'Mystery']",Manga
 Tokyo 24-ku: Reversal Film,2022,5.76,Finished,1,"['Mystery', 'Sci-Fi']",Original
 Mini Hama: Minimum Hamatora Movies,2015,5.99,Finished,2,"['Comedy', 'Mystery']",Mixed media
-Princess Principal: Crown Handler Movie 4,0000,0.0,Not yet aired,1,"['Action', 'Mystery']",Original
+Princess Principal: Crown Handler Movie 4,0,0,Not yet aired,1,"['Action', 'Mystery']",Original
 Mi Bao Zhi Guo,2021,5.57,Finished,10,"['Fantasy', 'Mystery', 'Sci-Fi']",Original
 Wild 7,1994,6.23,Finished,2,"['Action', 'Drama', 'Mystery']",Manga
 Bai Yao Pu 3rd Season,2022,7.45,Finished,12,"['Adventure', 'Fantasy', 'Mystery', 'Supernatural']",Novel
@@ -697,10 +697,10 @@ Alexander Senki Movie,2000,5.76,Finished,1,"['Action', 'Adventure', 'Avant Garde
 Xue Se Cang Qiong,2017,5.98,Finished,26,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Mystery', 'Suspense']",Web manga
 Monster Special Edition,2005,6.41,Finished,2,"['Drama', 'Mystery', 'Suspense']",Manga
 Tokyo Vice,1988,5.24,Finished,1,"['Action', 'Mystery', 'Sci-Fi']",Original
-Oshie to Tabi Suru Otoko,2018,0.0,Finished,1,['Mystery'],Novel
+Oshie to Tabi Suru Otoko,2018,0,Finished,1,['Mystery'],Novel
 Tantei Opera Milky Holmes: Fun Fun Party Night♪ - Ken to Janet no Okurimono,2016,6.64,Finished,1,"['Comedy', 'Mystery']",Original
 Tantei Opera Milky Holmes: Arsene Karei naru Yokubou,2017,6.71,Finished,1,"['Comedy', 'Mystery']",Original
-Meitantei Conan vs. Kaitou Kid,2024,0.0,Finished,1,"['Adventure', 'Comedy', 'Mystery']",Manga
+Meitantei Conan vs. Kaitou Kid,2024,0,Finished,1,"['Adventure', 'Comedy', 'Mystery']",Manga
 Stand My Heroes: Warmth of Memories,2023,6.1,Finished,1,"['Mystery', 'Romance']",Game
 Yami no Purple Eye,1987,4.56,Finished,1,"['Horror', 'Mystery', 'Supernatural']",Manga
 Bakumatsu Rock: Mystery! Onsen Kaijiken ze yo!!,2014,5.99,Finished,1,['Mystery'],Game
@@ -730,7 +730,7 @@ Meitantei Conan: Shakunetsu no Ginga Tetsudou,2020,6.74,Finished,1,"['Adventure'
 Fushigi Dagashiya: Zenitendou,2020,5.95,Airing,?,['Mystery'],Toei Animation
 Gregory Horror Show: The Last Train,2000,6.23,Finished,26,"['Comedy', 'Horror', 'Mystery', 'Supernatural']",Original
 Antique Heart,1988,5.43,Finished,1,['Mystery'],Original
-Koukaku Kidoutai: SAC_2045 - Saigo no Ningen,2023,0.0,Finished,1,"['Action', 'Mystery', 'Sci-Fi']",Source
+Koukaku Kidoutai: SAC_2045 - Saigo no Ningen,2023,0,Finished,1,"['Action', 'Mystery', 'Sci-Fi']",Source
 Mugen Shinshi: Bouken Katsugeki-hen,1987,5.62,Finished,1,"['Fantasy', 'Horror', 'Mystery']",Manga
 Meitantei Conan: Honchou no Keiji Koi Monogatari - Kekkon Zenya,2022,6.98,Finished,1,"['Adventure', 'Comedy', 'Mystery', 'Romance']",Manga
 Midori no Neko,1989,5.4,Finished,1,['Mystery'],Manga
@@ -749,7 +749,7 @@ Hua Jianghu: Huan Shi Men Sheng,2017,6.25,Finished,20,"['Drama', 'Fantasy', 'Mys
 Xiong Bing Lian,2017,6.05,Finished,33,"['Action', 'Mystery', 'Sci-Fi', 'Supernatural']",Original
 With You: Mitsumeteitai,2000,5.18,Finished,2,"['Drama', 'Fantasy', 'Mystery', 'Romance']",Visual novel
 Kochira Katsushikaku Kameari Kouenmae Hashutsujo The Movie 2: UFO Shuurai! Tornado Daisakusen!!,2003,6.71,Finished,1,"['Action', 'Comedy', 'Mystery']",Manga
-Qian Wu Guren,2021,0.0,Finished,26,"['Action', 'Adventure', 'Boys Love', 'Fantasy', 'Mystery', 'Supernatural']",Manga
+Qian Wu Guren,2021,0,Finished,26,"['Action', 'Adventure', 'Boys Love', 'Fantasy', 'Mystery', 'Supernatural']",Manga
 Jiyi Guanli Ju,2020,7.13,Finished,1,"['Action', 'Mystery']",Original
 Aruhi no Clamp Gakuen Tanteidan,2005,5.95,Finished,13,"['Comedy', 'Mystery']",Manga
 Nonomura Byouin no Hitobito,1996,5.4,Finished,2,"['Mystery', 'Hentai']",Source
@@ -763,35 +763,35 @@ Wild 7 Another Bouryaku Unga,2002,5.18,Finished,13,"['Action', 'Adventure', 'Mys
 Meitantei Conan: Kodai Kyouryuu no Nazo ni Semare!,2002,6.1,Finished,1,['Mystery'],Manga
 Reporter Blues,1991,6.44,Finished,52,"['Comedy', 'Mystery']",Original
 Satsujin Kippu wa Heart-iro,1990,5.21,Finished,1,['Mystery'],Novel
-Princess Principal: Crown Handler Movie 5,0000,0.0,Not yet aired,1,"['Action', 'Mystery']",Original
+Princess Principal: Crown Handler Movie 5,0,0,Not yet aired,1,"['Action', 'Mystery']",Original
 Yuukan Club,1991,5.72,Finished,2,"['Comedy', 'Mystery']",Manga
 Mu Wang Zhi Wang: Qi Lin Jue,2016,6.21,Finished,20,"['Action', 'Mystery', 'Romance']",Original
 Ginga Tansa 2100-nen: Border Planet,1986,6.25,Finished,1,"['Adventure', 'Mystery', 'Romance', 'Sci-Fi']",Original
 Da Li Si Rizhi 2nd Season,2022,7.27,Finished,12,"['Action', 'Comedy', 'Fantasy', 'Mystery']",Web manga
-Kuramerukagari,2024,0.0,Not yet aired,1,"['Mystery', 'Sci-Fi', 'Suspense']",Original
+Kuramerukagari,2024,0,Not yet aired,1,"['Mystery', 'Sci-Fi', 'Suspense']",Original
 Li Shi Zhentan Shiwusuo: A Day in Lungmen - Once Upon a Time in Lungmen,2023,5.65,Finished,1,"['Comedy', 'Mystery']",Game
 Shaonian Jinyiwei,2017,6.02,Finished,13,"['Action', 'Adventure', 'Mystery', 'Romance']",Original
 Otohime Connection,1991,5.94,Finished,1,"['Drama', 'Mystery', 'Romance', 'Slice of Life']",Source
 Tomica Hyper Rescue Drive Head: Kidou Kyuukyuu Keisatsu,2017,6.11,Finished,37,"['Adventure', 'Mystery', 'Sci-Fi']",Other
 Seigi wo Aisuru Mono Gekkou Kamen,1972,6.71,Finished,39,"['Action', 'Mystery']",
 15-fun de Wakaru: Kami no Tou,2020,5.79,Finished,2,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Mystery']",Web manga
-Princess Principal: Crown Handler Movie 6,0000,0.0,Not yet aired,1,"['Action', 'Mystery']",Original
+Princess Principal: Crown Handler Movie 6,0,0,Not yet aired,1,"['Action', 'Mystery']",Original
 Houkago no Tinker Bell,1992,5.38,Finished,1,"['Comedy', 'Drama', 'Mystery', 'Romance', 'Slice of Life']",Light novel
 Lupin tai Holmes,1981,5.86,Finished,1,['Mystery'],
 Tezuka Osamu ga Kieta?! 20-seiki Saigo no Kaijiken,2000,6.33,Finished,1,['Mystery'],
 Gasshin Sentai Mechander Robo,1977,5.84,Finished,35,"['Mystery', 'Sci-Fi']",
 Meitantei Holmes: Mrs. Hudson Hitojichi Jiken no Maki / Dover Kaikyou no Daikuuchuusen no Maki,1986,6.52,Finished,1,"['Adventure', 'Comedy', 'Mystery']",Novel
-Special Kid Factory,0000,0.0,Not yet aired,?,"['Mystery', 'Sci-Fi']",Original
+Special Kid Factory,0,0,Not yet aired,?,"['Mystery', 'Sci-Fi']",Original
 Kaitou Lupin: 813 no Nazo,1979,6.26,Finished,1,['Mystery'],
 Ziggy: Soreyuke! R&R Band,1991,5.44,Finished,1,"['Adventure', 'Mystery']",
 Urvan,2021,5.84,Finished,1,"['Mystery', 'Sci-Fi']",Original
 Kochira Katsushikaku Kameari Kouenmae Hashutsujo: The Final - Ryoutsu Kankichi Saigo no Hi,2016,6.45,Finished,1,"['Comedy', 'Mystery']",Manga
 Gekkou no Pierce: Yumemi to Gin no Bara no Kishidan,1991,5.67,Finished,1,"['Fantasy', 'Mystery', 'Romance']",Light novel
-Kurayukaba,2024,0.0,Not yet aired,1,"['Mystery', 'Sci-Fi', 'Suspense']",Original
+Kurayukaba,2024,0,Not yet aired,1,"['Mystery', 'Sci-Fi', 'Suspense']",Original
 Takarajima Movie,1987,6.14,Finished,1,"['Adventure', 'Drama', 'Mystery', 'Supernatural']",Novel
 Li Shi Zhentan Shiwusuo: A Day in Lungmen - Liang Xiaoshi Jiaqi,2023,6.1,Finished,1,"['Comedy', 'Mystery']",Game
 Fabre-sensei wa Meitantei,2000,6.59,Finished,26,['Mystery'],Book
-Oshiri Tantei,2018,0.0,Finished,10,"['Comedy', 'Fantasy', 'Mystery']",Picture book
+Oshiri Tantei,2018,0,Finished,10,"['Comedy', 'Fantasy', 'Mystery']",Picture book
 Meitantei Gordon,2006,4.79,Finished,1,"['Comedy', 'Mystery']",Original
 Bada-ui Jeonseol Jangbogo,2002,5.95,Finished,26,"['Action', 'Adventure', 'Comedy', 'Mystery']",
 Nekketsu Jinmen Inu: Life Is Movie,2014,5.9,Finished,3,"['Comedy', 'Mystery']",
@@ -803,7 +803,7 @@ Mikeneko Holmes no Yuurei Joushu,1992,5.78,Finished,1,"['Comedy', 'Drama', 'Myst
 Hello Kitty: Ringo no Mori no Mystery,2007,5.86,Finished,13,"['Comedy', 'Mystery']",
 Anhe Zhuan,2023,6.8,Airing,26,"['Action', 'Adventure', 'Mystery']",Web novel
 Shaonian Ge Xing: Feng Hua Xue Yue Pian Part 2,2022,7.04,Finished,16,"['Action', 'Adventure', 'Mystery']",Novel
-Uchuu Icchokusen,2010,0.0,Finished,1,"['Fantasy', 'Mystery', 'Sci-Fi']",
+Uchuu Icchokusen,2010,0,Finished,1,"['Fantasy', 'Mystery', 'Sci-Fi']",
 "Yakushiji Ryouko no Kaiki Jikenbo: Hamachou, Voice & Fiction",2009,5.92,Finished,1,"['Mystery', 'Supernatural']",Light novel
 Animation!,2006,5.68,Finished,13,"['Adventure', 'Avant Garde', 'Comedy', 'Fantasy', 'Mystery']",
 Meitantei Conan: Keisatsu Gakkou-hen Wild Police Story - Case. Furuya Rei,2023,6.56,Finished,1,"['Adventure', 'Comedy', 'Mystery']",Manga
@@ -812,13 +812,13 @@ Shiritsutantei: Toki Shouzou Trouble Note - Hard & Loose,1992,5.41,Finished,1,"[
 Li Shi Zhentan Shiwusuo: A Day in Lungmen - Home Service,2021,6.15,Finished,1,"['Action', 'Comedy', 'Mystery']",Source
 Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Maguro no Notta Keikan,2005,6.42,Finished,1,"['Comedy', 'Mystery']",Manga
 Norakuro-kun,1987,6.51,Finished,50,"['Comedy', 'Mystery']",Manga
-Nazotoki-hime wa Meitantei♥,2012,0.0,Finished,6,['Mystery'],Manga
+Nazotoki-hime wa Meitantei♥,2012,0,Finished,6,['Mystery'],Manga
 Felix no Meitantei,1932,4.56,Finished,1,['Mystery'],Original
-Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki,2020,0.0,Finished,1,['Mystery'],Novel
+Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki,2020,0,Finished,1,['Mystery'],Novel
 L/R: Licensed by Royal Special,2003,6.09,Finished,1,"['Action', 'Adventure', 'Mystery']",Original
 Mu Wang Zhi Wang: Xuan Guan Si,2017,6.21,Finished,20,"['Action', 'Mystery', 'Romance']",Original
 Shaonian Jinyiwei 2nd Season,2017,6.23,Finished,13,"['Action', 'Adventure', 'Mystery', 'Romance']",Original
-Bai Yao Pu 4th Season,2024,0.0,Airing,?,"['Adventure', 'Fantasy', 'Mystery', 'Supernatural']",Novel
+Bai Yao Pu 4th Season,2024,0,Airing,?,"['Adventure', 'Fantasy', 'Mystery', 'Supernatural']",Novel
 Princess Principal: Crown Handler Movie 3 - Cost for Custom Cars,2023,6.49,Finished,1,['Mystery'],Original
 Nekketsu Tantei Jimusho,2013,5.2,Finished,5,"['Comedy', 'Mystery']",
 Guiying Yu Li Shi Zhentan Shiwusuo,2022,5.69,Finished,1,"['Comedy', 'Mystery']",Game
@@ -826,81 +826,81 @@ Takahashi Rumiko Gekijou Ningyo no Mori Specials,2004,6.55,Finished,2,"['Drama',
 The Lamp Man,2017,5.78,Finished,1,"['Fantasy', 'Mystery']",Original
 Meitantei Conan: Necchuushou no Nazo wo Toke!,2003,5.99,Finished,1,"['Comedy', 'Mystery']",Manga
 Kagaku Bouken-tai Tansar 5,1979,6.26,Finished,34,"['Adventure', 'Mystery', 'Sci-Fi', 'Supernatural']",
-Meitantei Rascal,2014,0.0,Finished,12,"['Adventure', 'Mystery']",
-Karl to Fushigi na Tou,2010,0.0,Finished,26,"['Adventure', 'Fantasy', 'Mystery']",Original
+Meitantei Rascal,2014,0,Finished,12,"['Adventure', 'Mystery']",
+Karl to Fushigi na Tou,2010,0,Finished,26,"['Adventure', 'Fantasy', 'Mystery']",Original
 Si Hai Jing Qi 2nd Season,2019,6.18,Finished,24,"['Action', 'Adventure', 'Fantasy', 'Mystery']",Novel
-Hua Jianghu: Huan Shi Men Sheng 2nd Season,2021,0.0,Finished,19,"['Drama', 'Fantasy', 'Mystery', 'Romance']",Original
+Hua Jianghu: Huan Shi Men Sheng 2nd Season,2021,0,Finished,19,"['Drama', 'Fantasy', 'Mystery', 'Romance']",Original
 Columbos,2012,4.8,Finished,1,"['Drama', 'Mystery']",
 Shaonian Ge Xing: Feng Hua Xue Yue Pian Special,2022,6.55,Finished,1,"['Action', 'Adventure', 'Mystery']",Novel
 Alice Tantei Kyoku,1995,6.14,Finished,56,"['Fantasy', 'Mystery']",Original
 Hidden Region,2022,6.5,Finished,1,['Mystery'],Game
 The Gregory Gallery Tour Special,2000,5.72,Finished,3,"['Comedy', 'Horror', 'Mystery', 'Supernatural']",Original
-Private Eye Dol,1995,0.0,Finished,3,"['Comedy', 'Mystery']",
+Private Eye Dol,1995,0,Finished,3,"['Comedy', 'Mystery']",
 The Collected Animations of ICAF (2001-2006),2006,5.55,Finished,16,"['Fantasy', 'Mystery']",
-Yattokame Tanteidan,2007,0.0,Finished,14,"['Mystery', 'Slice of Life']",
-Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars Special,2007,0.0,Finished,1,"['Drama', 'Fantasy', 'Mystery']",Novel
-Honto ni Atta Gakkou Kaidan,1996,0.0,Finished,1,"['Mystery', 'Supernatural']",
-Meitantei Conan: Tantei-tachi no Starry Night,2015,0.0,Finished,1,"['Comedy', 'Mystery', 'Sci-Fi']",Manga
+Yattokame Tanteidan,2007,0,Finished,14,"['Mystery', 'Slice of Life']",
+Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars Special,2007,0,Finished,1,"['Drama', 'Fantasy', 'Mystery']",Novel
+Honto ni Atta Gakkou Kaidan,1996,0,Finished,1,"['Mystery', 'Supernatural']",
+Meitantei Conan: Tantei-tachi no Starry Night,2015,0,Finished,1,"['Comedy', 'Mystery', 'Sci-Fi']",Manga
 Xiong Bing Lian: Zhu Tian Jianglin,2019,6.58,Finished,26,"['Action', 'Mystery', 'Sci-Fi', 'Supernatural']",Original
-Kaette Kite yoo Toyama kara,2015,0.0,Finished,4,"['Comedy', 'Mystery', 'Slice of Life']",Original
-Chuanyue Huoxian: Youling Jihua,2019,0.0,Finished,13,"['Action', 'Mystery']",Game
+Kaette Kite yoo Toyama kara,2015,0,Finished,4,"['Comedy', 'Mystery', 'Slice of Life']",Original
+Chuanyue Huoxian: Youling Jihua,2019,0,Finished,13,"['Action', 'Mystery']",Game
 Shuuen no Shiori,2013,6.18,Finished,1,"['Mystery', 'Supernatural']",Original
-Tobidase! Bacchiri,1966,0.0,Finished,132,"['Comedy', 'Mystery']",
-Shaonian Ge Xing: Haiwai Xianshan Pian,2023,0.0,Airing,?,"['Action', 'Adventure', 'Mystery']",Novel
-Tantei Shounen Kageman,2001,0.0,Finished,39,"['Comedy', 'Mystery']",
-Oshiri Tantei 5th Season,2021,0.0,Finished,13,"['Comedy', 'Fantasy', 'Mystery']",Picture book
+Tobidase! Bacchiri,1966,0,Finished,132,"['Comedy', 'Mystery']",
+Shaonian Ge Xing: Haiwai Xianshan Pian,2023,0,Airing,?,"['Action', 'Adventure', 'Mystery']",Novel
+Tantei Shounen Kageman,2001,0,Finished,39,"['Comedy', 'Mystery']",
+Oshiri Tantei 5th Season,2021,0,Finished,13,"['Comedy', 'Fantasy', 'Mystery']",Picture book
 Oshiri Tantei: Mina to Machi no Tuk-tuk Chase,2017,5.36,Finished,1,"['Comedy', 'Mystery']",Picture book
 Meitantei Hangyodon: Kaitou Ruzu Arawaruno-kan,1993,5.31,Finished,1,['Mystery'],
-Taka no Tsume Yoshida-kun Batten File: Natsuyasumi Mystery Adventure,2019,0.0,Finished,5,"['Comedy', 'Mystery', 'Sci-Fi', 'Supernatural']",Original
-Miko Note Episode 0: Zenjitsudan,2022,0.0,Finished,1,"['Mystery', 'Slice of Life']",Game
+Taka no Tsume Yoshida-kun Batten File: Natsuyasumi Mystery Adventure,2019,0,Finished,5,"['Comedy', 'Mystery', 'Sci-Fi', 'Supernatural']",Original
+Miko Note Episode 0: Zenjitsudan,2022,0,Finished,1,"['Mystery', 'Slice of Life']",Game
 Tate no Kuni PV,2022,5.76,Finished,1,"['Adventure', 'Fantasy', 'Mystery']",Manga
-Doctor Mambo & Kaitou Jibako: Uchuu yori Ai wo Komete!!,1983,0.0,Finished,1,"['Adventure', 'Fantasy', 'Mystery', 'Sci-Fi']",
-Slippy Dandy,1987,0.0,Finished,4,"['Action', 'Mystery']",
-Oshiri Tantei 2nd Season,2018,0.0,Finished,16,"['Comedy', 'Fantasy', 'Mystery']",Picture book
-Oshiri Tantei 4th Season,2020,0.0,Finished,13,"['Comedy', 'Fantasy', 'Mystery']",Picture book
-Ooedo Torimonochou: Nezumi Kozou,1989,0.0,Finished,1,['Mystery'],
-Oshiri Tantei 3rd Season,2019,0.0,Finished,13,"['Comedy', 'Fantasy', 'Mystery']",Picture book
-Oshiri Tantei 6th Season,2022,0.0,Finished,13,"['Comedy', 'Fantasy', 'Mystery']",Picture book
+Doctor Mambo & Kaitou Jibako: Uchuu yori Ai wo Komete!!,1983,0,Finished,1,"['Adventure', 'Fantasy', 'Mystery', 'Sci-Fi']",
+Slippy Dandy,1987,0,Finished,4,"['Action', 'Mystery']",
+Oshiri Tantei 2nd Season,2018,0,Finished,16,"['Comedy', 'Fantasy', 'Mystery']",Picture book
+Oshiri Tantei 4th Season,2020,0,Finished,13,"['Comedy', 'Fantasy', 'Mystery']",Picture book
+Ooedo Torimonochou: Nezumi Kozou,1989,0,Finished,1,['Mystery'],
+Oshiri Tantei 3rd Season,2019,0,Finished,13,"['Comedy', 'Fantasy', 'Mystery']",Picture book
+Oshiri Tantei 6th Season,2022,0,Finished,13,"['Comedy', 'Fantasy', 'Mystery']",Picture book
 Mr. Bond,1997,5.74,Finished,1,['Mystery'],Novel
-Oshiri Tantei 7th Season,2023,0.0,Airing,15,"['Comedy', 'Fantasy', 'Mystery']",Picture book
-Mahou no Nai Sekai de Ikiru to Iu Koto,2022,0.0,Finished,1,"['Drama', 'Mystery']",Original
+Oshiri Tantei 7th Season,2023,0,Airing,15,"['Comedy', 'Fantasy', 'Mystery']",Picture book
+Mahou no Nai Sekai de Ikiru to Iu Koto,2022,0,Finished,1,"['Drama', 'Mystery']",Original
 W.O.L.F. (Win Or Lose Fight) PV,2023,5.7,Finished,1,"['Mystery', 'Supernatural']",Web manga
 Teosbatbu Sageonilji PV,2020,5.7,Finished,1,"['Comedy', 'Mystery']",Manga
 Yeon-ui Pyeonji PV,2021,5.81,Finished,1,"['Adventure', 'Drama', 'Mystery']",Manga
-Oni Keibu Anpan,2009,0.0,Finished,2,['Mystery'],Other
-Lutu Weiji! Sheng Freya Hao Tebie Shijian,2024,0.0,Finished,1,"['Comedy', 'Mystery', 'Sci-Fi']",Game
+Oni Keibu Anpan,2009,0,Finished,2,['Mystery'],Other
+Lutu Weiji! Sheng Freya Hao Tebie Shijian,2024,0,Finished,1,"['Comedy', 'Mystery', 'Sci-Fi']",Game
 Sherlock Holmes to Watson Hakase,1975,5.22,Finished,1,['Mystery'],Novel
-Oshiri Tantei Movie 1: Curry Naru Jiken,2019,0.0,Finished,1,"['Comedy', 'Fantasy', 'Mystery']",Picture book
+Oshiri Tantei Movie 1: Curry Naru Jiken,2019,0,Finished,1,"['Comedy', 'Fantasy', 'Mystery']",Picture book
 Arikitari Heroes,2013,6.02,Finished,1,"['Horror', 'Mystery', 'Supernatural']",Original
-Oshiri Tantei Movie 2: Tentoumushi Iseki no Nazo,2020,0.0,Finished,1,"['Comedy', 'Fantasy', 'Mystery']",Picture book
-Sinbi Apartment Movie: Haneuldokkaebi Dae Yoleumungandeu,2019,0.0,Finished,1,"['Mystery', 'Supernatural']",Original
-Kijeu CSI,2012,0.0,Finished,104,"['Adventure', 'Mystery']",Original
-Oshiri Tantei Movie 3: Sufure-tou no Himitsu,2021,0.0,Finished,1,"['Comedy', 'Fantasy', 'Mystery']",Picture book
-Sinbi Apartment: Joseontoemasillog,2023,0.0,Finished,4,"['Mystery', 'Supernatural']",Original
-Sono Saki no Taniji,2018,0.0,Finished,1,"['Avant Garde', 'Mystery']",Original
-Gigi Goegoe,2019,0.0,Finished,20,"['Horror', 'Mystery', 'Supernatural']",Web manga
-Nare no Hate,2023,0.0,Finished,1,"['Avant Garde', 'Mystery']",Original
-Da Zhentan Fuermosi: Tao Yu Da Zhuibu,2019,0.0,Finished,1,"['Adventure', 'Mystery']",Novel
-Sinbi Apartment: Bichui Baempaieowa Eodumui Ai,2021,0.0,Finished,1,"['Mystery', 'Supernatural']",Original
-Sushi Police Movie,2016,0.0,Finished,1,"['Comedy', 'Mystery']",Original
-HololiveEN PVs,2021,0.0,Finished,2,['Mystery'],Original
-Ulineun Myeong-tam-jeong,2009,0.0,Finished,52,['Mystery'],Original
-Dogra Magra,2012,0.0,Finished,1,"['Mystery', 'Sci-Fi']",Novel
-Oshiri Tantei Movie 4: Shiriarty,2022,0.0,Finished,1,"['Action', 'Comedy', 'Fantasy', 'Mystery']",Picture book
-26 Ge Mimi,2005,0.0,Finished,26,"['Adventure', 'Mystery']",Original
-Itadakinosaki,2015,0.0,Finished,1,"['Fantasy', 'Mystery']",Original
-Code Name X,2023,0.0,Finished,26,"['Action', 'Comedy', 'Mystery']",Original
-Dokuhaku Suru Universal Yoko Mercator Egg Man,2009,0.0,Finished,1,"['Mystery', 'Suspense']",Novel
-Sinbi Apartment: Geumbich Dokkaebiwa Bimil-ui Dong-gul,2018,0.0,Finished,1,"['Mystery', 'Supernatural']",Original
-Shengsi Huifang,2016,0.0,Finished,20,"['Mystery', 'Supernatural']",Manga
-Shaonian Jinyiwei 2nd Season Xuzhang,2017,0.0,Finished,1,"['Action', 'Mystery']",Original
-Kun Bing Zhi Long PV,2016,0.0,Finished,1,"['Action', 'Drama', 'Horror', 'Mystery', 'Sci-Fi', 'Suspense']",Web manga
-Wangpai Erha,2023,0.0,Finished,1,"['Comedy', 'Mystery']",Original
-Fuaxiao Chuanqi,2018,0.0,Finished,1,"['Mystery', 'Sci-Fi']",Original
-Sabu to Ichi Torimono Hikae Pilot Film,0000,0.0,Finished,1,"['Action', 'Drama', 'Mystery']",Manga
-Oshiri Tantei Movie 5: Saraba Itoshiki Aibou (Oshiri) yo,2024,0.0,Not yet aired,1,"['Action', 'Comedy', 'Fantasy', 'Mystery']",Picture book
-Kuaile Xiao Yongshi,2007,0.0,Finished,39,['Mystery'],
-Tan Zhang QiQi,2003,0.0,Finished,26,['Mystery'],Original
-Meitantei Pork,2016,0.0,Finished,1,"['Comedy', 'Mystery']",Original
-Story of Krishna,2019,0.0,Finished,1,"['Avant Garde', 'Mystery']",
-Shi ga Utsukushii Nante dare ga Itta,2023,0.0,Finished,1,"['Action', 'Horror', 'Mystery']",Book
+Oshiri Tantei Movie 2: Tentoumushi Iseki no Nazo,2020,0,Finished,1,"['Comedy', 'Fantasy', 'Mystery']",Picture book
+Sinbi Apartment Movie: Haneuldokkaebi Dae Yoleumungandeu,2019,0,Finished,1,"['Mystery', 'Supernatural']",Original
+Kijeu CSI,2012,0,Finished,104,"['Adventure', 'Mystery']",Original
+Oshiri Tantei Movie 3: Sufure-tou no Himitsu,2021,0,Finished,1,"['Comedy', 'Fantasy', 'Mystery']",Picture book
+Sinbi Apartment: Joseontoemasillog,2023,0,Finished,4,"['Mystery', 'Supernatural']",Original
+Sono Saki no Taniji,2018,0,Finished,1,"['Avant Garde', 'Mystery']",Original
+Gigi Goegoe,2019,0,Finished,20,"['Horror', 'Mystery', 'Supernatural']",Web manga
+Nare no Hate,2023,0,Finished,1,"['Avant Garde', 'Mystery']",Original
+Da Zhentan Fuermosi: Tao Yu Da Zhuibu,2019,0,Finished,1,"['Adventure', 'Mystery']",Novel
+Sinbi Apartment: Bichui Baempaieowa Eodumui Ai,2021,0,Finished,1,"['Mystery', 'Supernatural']",Original
+Sushi Police Movie,2016,0,Finished,1,"['Comedy', 'Mystery']",Original
+HololiveEN PVs,2021,0,Finished,2,['Mystery'],Original
+Ulineun Myeong-tam-jeong,2009,0,Finished,52,['Mystery'],Original
+Dogra Magra,2012,0,Finished,1,"['Mystery', 'Sci-Fi']",Novel
+Oshiri Tantei Movie 4: Shiriarty,2022,0,Finished,1,"['Action', 'Comedy', 'Fantasy', 'Mystery']",Picture book
+26 Ge Mimi,2005,0,Finished,26,"['Adventure', 'Mystery']",Original
+Itadakinosaki,2015,0,Finished,1,"['Fantasy', 'Mystery']",Original
+Code Name X,2023,0,Finished,26,"['Action', 'Comedy', 'Mystery']",Original
+Dokuhaku Suru Universal Yoko Mercator Egg Man,2009,0,Finished,1,"['Mystery', 'Suspense']",Novel
+Sinbi Apartment: Geumbich Dokkaebiwa Bimil-ui Dong-gul,2018,0,Finished,1,"['Mystery', 'Supernatural']",Original
+Shengsi Huifang,2016,0,Finished,20,"['Mystery', 'Supernatural']",Manga
+Shaonian Jinyiwei 2nd Season Xuzhang,2017,0,Finished,1,"['Action', 'Mystery']",Original
+Kun Bing Zhi Long PV,2016,0,Finished,1,"['Action', 'Drama', 'Horror', 'Mystery', 'Sci-Fi', 'Suspense']",Web manga
+Wangpai Erha,2023,0,Finished,1,"['Comedy', 'Mystery']",Original
+Fuaxiao Chuanqi,2018,0,Finished,1,"['Mystery', 'Sci-Fi']",Original
+Sabu to Ichi Torimono Hikae Pilot Film,0,0,Finished,1,"['Action', 'Drama', 'Mystery']",Manga
+Oshiri Tantei Movie 5: Saraba Itoshiki Aibou (Oshiri) yo,2024,0,Not yet aired,1,"['Action', 'Comedy', 'Fantasy', 'Mystery']",Picture book
+Kuaile Xiao Yongshi,2007,0,Finished,39,['Mystery'],
+Tan Zhang QiQi,2003,0,Finished,26,['Mystery'],Original
+Meitantei Pork,2016,0,Finished,1,"['Comedy', 'Mystery']",Original
+Story of Krishna,2019,0,Finished,1,"['Avant Garde', 'Mystery']",
+Shi ga Utsukushii Nante dare ga Itta,2023,0,Finished,1,"['Action', 'Horror', 'Mystery']",Book
