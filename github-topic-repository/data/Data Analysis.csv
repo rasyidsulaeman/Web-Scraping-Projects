@@ -1,0 +1,21 @@
+repo name,username,stars,watchers,created at,updated at,link repo
+scikit-learn,scikit-learn,57600,57581,2010-08-17T09:43:38Z,2024-03-06T09:49:09Z,https://github.com/scikit-learn/scikit-learn
+superset,apache,57300,57307,2015-07-21T18:55:34Z,2024-03-06T09:58:55Z,https://github.com/apache/superset
+pandas,pandas-dev,41400,41416,2010-08-24T01:37:33Z,2024-03-06T09:40:40Z,https://github.com/pandas-dev/pandas
+metabase,metabase,36000,35965,2015-02-02T19:25:47Z,2024-03-06T09:33:33Z,https://github.com/metabase/metabase
+streamlit,streamlit,30600,30557,2019-08-24T00:14:52Z,2024-03-06T09:47:14Z,https://github.com/streamlit/streamlit
+AI-Expert-Roadmap,AMAI-GmbH,28000,28007,2020-10-24T21:49:40Z,2024-03-06T10:07:45Z,https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+gradio,gradio-app,26900,26862,2018-12-19T08:24:04Z,2024-03-06T10:08:35Z,https://github.com/gradio-app/gradio
+Data-Science-For-Beginners,microsoft,25800,25796,2021-03-03T16:30:15Z,2024-03-06T09:42:37Z,https://github.com/microsoft/Data-Science-For-Beginners
+CyberChef,gchq,24500,24521,2016-11-28T10:34:07Z,2024-03-06T10:17:29Z,https://github.com/gchq/CyberChef
+goaccess,allinurl,17300,17295,2013-07-14T03:42:08Z,2024-03-06T10:08:06Z,https://github.com/allinurl/goaccess
+best-of-ml-python,ml-tooling,15100,15143,2020-11-29T19:41:36Z,2024-03-06T10:07:12Z,https://github.com/ml-tooling/best-of-ml-python
+dataease,dataease,14700,14670,2021-02-02T04:10:21Z,2024-03-06T09:46:51Z,https://github.com/dataease/dataease
+airbyte,airbytehq,13500,13451,2020-07-27T23:55:54Z,2024-03-06T09:33:47Z,https://github.com/airbytehq/airbyte
+ydata-profiling,ydataai,11900,11867,2016-01-09T23:47:55Z,2024-03-06T09:48:18Z,https://github.com/ydataai/ydata-profiling
+OpenRefine,OpenRefine,10300,10301,2012-10-15T02:22:48Z,2024-03-06T01:06:31Z,https://github.com/OpenRefine/OpenRefine
+pandas-ai,Sinaptik-AI,10200,10155,2023-04-22T12:58:01Z,2024-03-06T10:14:47Z,https://github.com/Sinaptik-AI/pandas-ai
+pandas_exercises,guipsamora,9900,9891,2016-07-12T22:46:43Z,2024-03-06T10:17:21Z,https://github.com/guipsamora/pandas_exercises
+statsmodels,statsmodels,9400,9369,2011-06-12T17:04:50Z,2024-03-06T06:50:51Z,https://github.com/statsmodels/statsmodels
+mlcourse.ai,Yorko,9300,9315,2017-02-27T08:32:20Z,2024-03-05T12:27:10Z,https://github.com/Yorko/mlcourse.ai
+pygwalker,Kanaries,9000,8989,2023-02-16T05:17:24Z,2024-03-06T10:06:18Z,https://github.com/Kanaries/pygwalker

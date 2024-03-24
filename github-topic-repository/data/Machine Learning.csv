@@ -1,0 +1,21 @@
+repo name,username,stars,watchers,created at,updated at,link repo
+tensorflow,tensorflow,181000,181144,2015-11-07T01:19:20Z,2024-03-06T09:21:29Z,https://github.com/tensorflow/tensorflow
+transformers,huggingface,122000,121500,2018-10-29T13:56:00Z,2024-03-06T10:01:23Z,https://github.com/huggingface/transformers
+pytorch,pytorch,76200,76220,2016-08-13T05:26:41Z,2024-03-06T09:21:42Z,https://github.com/pytorch/pytorch
+netdata,netdata,67300,67334,2013-06-17T18:39:10Z,2024-03-06T09:20:55Z,https://github.com/netdata/netdata
+ML-For-Beginners,microsoft,64700,64726,2021-03-03T01:34:05Z,2024-03-06T09:42:53Z,https://github.com/microsoft/ML-For-Beginners
+cs-video-courses,Developer-Y,63600,63575,2016-10-21T17:02:11Z,2024-03-06T06:54:04Z,https://github.com/Developer-Y/cs-video-courses
+keras,keras-team,60600,60576,2015-03-28T00:35:42Z,2024-03-06T09:09:26Z,https://github.com/keras-team/keras
+scikit-learn,scikit-learn,57600,57581,2010-08-17T09:43:38Z,2024-03-06T09:49:09Z,https://github.com/scikit-learn/scikit-learn
+tesseract,tesseract-ocr,56900,56912,2014-08-12T18:04:59Z,2024-03-06T09:05:23Z,https://github.com/tesseract-ocr/tesseract
+d2l-zh,d2l-ai,54600,54595,2017-08-23T04:40:24Z,2024-03-06T10:04:29Z,https://github.com/d2l-ai/d2l-zh
+awesome-scalability,binhnguyennus,52200,52214,2017-12-27T03:46:40Z,2024-03-06T10:14:02Z,https://github.com/binhnguyennus/awesome-scalability
+face_recognition,ageitgey,51300,51264,2017-03-03T21:52:39Z,2024-03-06T10:10:18Z,https://github.com/ageitgey/face_recognition
+faceswap,deepfakes,48700,48692,2017-12-19T09:44:13Z,2024-03-06T09:36:26Z,https://github.com/deepfakes/faceswap
+yolov5,ultralytics,45500,45539,2020-05-18T03:45:11Z,2024-03-06T09:37:36Z,https://github.com/ultralytics/yolov5
+DeepFaceLab,iperov,44800,44769,2018-06-04T13:10:00Z,2024-03-06T08:37:24Z,https://github.com/iperov/DeepFaceLab
+annotated_deep_learning_paper_implementations,labmlai,44400,44364,2020-08-25T02:29:34Z,2024-03-06T10:01:04Z,https://github.com/labmlai/annotated_deep_learning_paper_implementations
+julia,JuliaLang,44200,44156,2011-04-21T07:01:50Z,2024-03-06T10:08:03Z,https://github.com/JuliaLang/julia
+TensorFlow-Examples,aymericdamien,43200,43154,2015-11-11T14:21:19Z,2024-03-06T06:39:37Z,https://github.com/aymericdamien/TensorFlow-Examples
+100-Days-Of-ML-Code,Avik-Jain,42700,42746,2018-07-05T09:11:43Z,2024-03-06T04:32:32Z,https://github.com/Avik-Jain/100-Days-Of-ML-Code
+Open-Assistant,LAION-AI,36400,36406,2022-12-13T05:24:17Z,2024-03-06T07:42:50Z,https://github.com/LAION-AI/Open-Assistant
